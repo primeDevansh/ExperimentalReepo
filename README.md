@@ -6,7 +6,7 @@ Experimenting with GH, VSC, etc. features :p
 </p>
 
 <p>
-  <b>exp2_23.Mar.23</b> -> Also tried adding a video file and this is how I came across Git-lfs. Learned it today! Twas nice! xd!
+  <b>exp2_23.Mar.24</b> -> Also tried adding a video file and this is how I came across Git-lfs. Learned it today! Twas nice! xd!
 </p>
 
 <p>
