@@ -21,6 +21,7 @@ Experimenting with GH, VSC, etc. features :p
 ```
     git config core.ignorecase true
 ```
+
     And, I got the above snippet from <a href = "https://stackoverflow.com/questions/11183788/in-a-git-repository-how-to-properly-rename-a-directory">here</a>.
   </p>
 </p>
