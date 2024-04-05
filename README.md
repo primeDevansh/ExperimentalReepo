@@ -17,9 +17,11 @@ Experimenting with GH, VSC, etc. features :p
   <b>exp3_06.Apr.24</b> -> Renaming Repos and Directos
   <p>
     So, first things first, 'directos' means 'directories', idk if this shorto would work xd! Wait, coming to the point, today I am trying to rename git repositories and trying to pull them to local git directory as well. I tweaked (ofc, the name) a repository today but couldn't pull the same to local. Since both the local and the remote were in sync, I deleted the local and re-cloned the remote. It worked! Will surely try more to get a proper way. In the way I even changed a core setting of my machine:
+    
     ```
     git config core.ignorecase true
     ```
+    
   </p>
 </p>
 
