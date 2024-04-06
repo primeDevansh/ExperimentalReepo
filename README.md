@@ -29,6 +29,8 @@ First things first, 'directos' means 'directories', idk if this shorto would wor
 git config core.ignorecase true
 ```
 
+And, never forget to visit [this](https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository) page.
+
 ### exp4_07.Apr.24 > Writing Markdown Files The 'Correct' Way!
 
 Today, I'd be learning the proper way to write .md files. Till now, I was using **p**-tags for paragraphs, **b**-tags for bold, **a**-tags for hyperlinks and many more old, HTML-fashioned way of doing stuff. From now on, I'd be following the conventional way to write a .md file plus, I'd be correcting most of the README files that I've written so far - slowly ofc. To get going, I'd be starting with this README.md itself.
