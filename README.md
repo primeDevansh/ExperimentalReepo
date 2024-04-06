@@ -1,5 +1,5 @@
 # logMarkWatney
-My Git/GitHub (important) activity log & description of the experiments I perform here & there. By experiments I refer to the coding & various technical experiments I perform. So, below are the 2 sections of this page, logging and experimenting.
+My Git/GitHub activity log & description of the experiments I perform with various technical features. By experiments I refer to the coding & various technical experiments I perform. So, below are the 2 sections of this page, logging and experimenting.
 
 # <font color = 'red'>Log</font>
 
