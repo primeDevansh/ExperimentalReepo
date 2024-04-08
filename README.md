@@ -11,6 +11,10 @@ Oh, no! What the duck! I named this repository as 'ExperimentalR**ee**po' instea
 
 I am going rename this repo as well. Firstly, I am planning to use this as my GitHub and Git log report more than experimenting with features. Again, I will not stop experimenting! __In fact, no one should ever stop experimenting!__ Cheers! Oh, God! For how many more days do I have to remain single!?
 
+### update3_08.Apr.24 > My Own Blog
+
+For a long time, I've been pondering over the thought of starting my own blog. I tried many sites such as WordPress and Blogger but coudln't satisfy myself for some or the other reason. Now that I know of the GitHub pages' Jekyll thing, I'd be rolling out my own website very soon. Stay tuned! (if anyone is there, xd).
+
 # <font color = 'red'>Experiments</font>
 
 ### exp1_23.Mar.24 > Can GitHub Accept Photo and Video Data?
