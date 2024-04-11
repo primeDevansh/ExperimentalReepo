@@ -37,7 +37,7 @@ And, never forget to visit [this](https://docs.github.com/en/repositories/creati
 
 ### exp4_07.Apr.24 > Writing Markdown Files The 'Correct' Way!
 
-Today, I'd be learning the proper way to write .md files. Till now, I was using **p**-tags for paragraphs, **b**-tags for bold, **a**-tags for hyperlinks and many more old, HTML-fashioned way of doing stuff. From now on, I'd be following the conventional way to write a .md file plus, I'd be correcting most of the README files that I've written so far - slowly ofc. To get going, I'd be starting with this README.md itself.
+Today, I'd be learning the proper way to write .md files. Till now, I was using **p**-tags for paragraphs, **b**-tags for bold, **a**-tags for hyperlinks and many more old, HTML-fashioned way of doing stuff. From now on, I'd be following the conventional way to write a **.md** file plus, I'd be correcting most of the README files that I've written so far - slowly ofc. To get going, I'd be starting with this README.md itself.
 
 This is the [guide](https://www.inflectra.com/Support/KnowledgeBase/KB725.aspx) that taught me some of the basics of writing a MARKDOWN file the correct way!
 
