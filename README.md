@@ -17,6 +17,10 @@ For a long time, I've been pondering over the thought of starting my own blog. I
 
 *edit_14.Apr.24* Bro!!! My profile's README.md looks so ugly! Uh, I mean, its not that ugly but its so full of information and text. That is not good in my view. Why not shift all of this to my blog site and make that blog site more of a personal portfolio!? Let's do that! It'd be fun.
 
+### update_17.Apr.24 > It is LIVE!
+
+Yup! My own blog site is up and running at [primeDevansh.GitHub.io](primeDevansh.GitHub.io). It is hosted on GitHub pages. It was a nice experience rolling out my own website. Big shout-out to [Timothy Stewart](https://technotim.live/about/) for his comprehensive [Jekyll guide](https://technotim.live/posts/jekyll-docs-site/). Thanks a lot! And, anbody stalking me please make sure to give a star to my repository [here](https://github.com/primeDevansh/primeDevansh.github.io). Cheers!
+
 # <font color = 'red'>Experiments</font>
 
 ### exp1_23.Mar.24 > Can GitHub Accept Photo and Video Data?
