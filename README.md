@@ -50,3 +50,45 @@ This is the [guide](https://www.inflectra.com/Support/KnowledgeBase/KB725.aspx) 
 ### exp05_07.Apr.24 > Can I Have Another Git Repository Inside an Existing Repository?
 
 Oh, yes! I can have one more git repository under an already existing one! And it is done through [submodules](https://git-scm.com/book/en/v2Git-Tools-Submodules#:~:text=Submodules%20allow%20you%20to%20keep,and%20keep%20your%20commits%20separate.).
+
+### exp06_14.May.24 > Adding Preprocessor Directive in The Middle of a Program!
+
+What about adding header files as and when needed, not particularly at the beginning of a program. Let's try this out at [exp14May24.c](./exp14May24.c).
+
+OMFG! It worked!
+
+Variant #1
+
+```C
+void printME();
+
+int main() {
+    printME();
+    return 0;
+}
+
+#include<stdio.h>
+
+void printME() {
+    printf("hi");
+    return;
+}
+```
+
+But, this didn't work!
+
+```C
+void printME() {
+    printf("hi");
+    return;
+}
+
+int main() {
+    printME();
+    return 0;
+}
+
+#include<stdio.h>
+```
+
+![Terminal Log](./Screenshot%202024-05-14%20at%2010.52.34%20AM.png)
