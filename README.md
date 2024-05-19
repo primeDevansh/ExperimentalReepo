@@ -98,3 +98,17 @@ int main() {
 Refer to [exp07_19May24.c](./exp07_19May24.c)
 
 ![Console Log](./Screenshot%202024-05-19%20at%201.01.34%20PM.png)
+
+BINGO!
+
+```C
+int main() {
+    printf("%ld\n", sizeof(int));
+    int i = 16777216;
+    float f = *(float*)&i;
+
+    printf("%d\t%.40f\n",i, f);
+    return 0;
+}
+```
+![Console Log](./Screenshot%202024-05-19%20at%2011.37.39%20PM.png)
