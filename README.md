@@ -92,3 +92,9 @@ int main() {
 ```
 
 ![Terminal Log](./Screenshot%202024-05-14%20at%2010.52.34%20AM.png)
+
+### exp07_19.May.24 > Playing Around With Low-Level Memory Stuff in 'C'
+
+Refer to [exp07_19May24.c](./exp07_19May24.c)
+
+![Console Log](./Screenshot%202024-05-19%20at%201.01.34%20PM.png)
