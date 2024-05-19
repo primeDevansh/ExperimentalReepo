@@ -104,7 +104,7 @@ BINGO!
 ```C
 int main() {
     printf("%ld\n", sizeof(int));
-    int i = 16777216;
+    int i = 16777216; //2^24
     float f = *(float*)&i;
 
     printf("%d\t%.40f\n",i, f);
